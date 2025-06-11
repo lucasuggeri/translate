@@ -21,7 +21,7 @@ A script for translating and synchronizing videos with the following steps:
 |-------------|---------------|------------------------|----------------------------|
 | FFmpeg | Latest | `ffmpeg -version` | Video/Audio Manipulation |
 | Whisper | - | `Whisper --version` | Translation template |
-| Python | 3.8+ | `python3 --version` | Required by Whisper |
+| Python | 3.9+ | `python3 --version` | Required by Whisper |
 | Node.js | v22.13+ | `node --version` | Main runtime |
 | Yarn | Latest | `yarn --version` | Package manager |
 
